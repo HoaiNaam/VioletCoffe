@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../BT"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SeaCoffee-main"
+	}
+}
